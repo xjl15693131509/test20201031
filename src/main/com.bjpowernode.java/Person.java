@@ -7,4 +7,7 @@ public class Person {
     public void add(){
 
     }
+    public void  eat(){
+
+    }
 }
